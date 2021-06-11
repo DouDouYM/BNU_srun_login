@@ -1,7 +1,7 @@
 # BNU_srun_login
 北师大深澜校园网登录脚本，采用Python编写
 
-部分代码参考了[这个项目](https://github.com/qhlai/hitsz_srun_autoconnect)
+部分代码参考了[这个](https://github.com/qhlai/hitsz_srun_autoconnect)和[这个](https://blog.csdn.net/qq_41797946/article/details/89417722)
 
 粗糙实现了“上一次登录”功能，将登录成功的帐号保存至本地，可以免去再次登录时输入帐号密码的烦恼
 
